@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/myblog/categories/</loc>
+    <loc>https://liang-mt.github.io/categories/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/posts/hello-world/</loc>
+    <loc>https://liang-mt.github.io/posts/hello-world/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/markdown/</loc>
+    <loc>https://liang-mt.github.io/tags/markdown/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/posts/markdown-guide/</loc>
+    <loc>https://liang-mt.github.io/posts/markdown-guide/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/posts/</loc>
+    <loc>https://liang-mt.github.io/posts/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/</loc>
+    <loc>https://liang-mt.github.io/tags/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://liang-mt.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://liang-mt.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/%E5%85%A5%E9%97%A8/</loc>
+    <loc>https://liang-mt.github.io/tags/%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://liang-mt.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://liang-mt.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/</loc>
+    <loc>https://liang-mt.github.io/</loc>
     <lastmod>2026-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/about/</loc>
+    <loc>https://liang-mt.github.io/about/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/myblog/archives/</loc>
+    <loc>https://liang-mt.github.io/archives/</loc>
   </url>
 </urlset>
