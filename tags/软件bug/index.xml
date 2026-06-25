@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>软件bug on 我的博客</title>
+    <link>https://liang-mt.github.io/tags/%E8%BD%AF%E4%BB%B6bug/</link>
+    <description>Recent content in 软件bug on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/tags/%E8%BD%AF%E4%BB%B6bug/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Word 内存或磁盘空间不足</title>
+      <link>https://liang-mt.github.io/posts/word/word-%E5%86%85%E5%AD%98%E6%88%96%E7%A3%81%E7%9B%98%E7%A9%BA%E9%97%B4%E4%B8%8D%E8%B6%B3/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/word/word-%E5%86%85%E5%AD%98%E6%88%96%E7%A3%81%E7%9B%98%E7%A9%BA%E9%97%B4%E4%B8%8D%E8%B6%B3/</guid>
+      <description>Word 内存或磁盘空间不足</description>
+    </item>
+    <item>
+      <title>Word选中内容不能删除</title>
+      <link>https://liang-mt.github.io/posts/word/word%E9%80%89%E4%B8%AD%E5%86%85%E5%AE%B9%E4%B8%8D%E8%83%BD%E5%88%A0%E9%99%A4/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/word/word%E9%80%89%E4%B8%AD%E5%86%85%E5%AE%B9%E4%B8%8D%E8%83%BD%E5%88%A0%E9%99%A4/</guid>
+      <description>Word选中内容不能删除</description>
+    </item>
+    <item>
+      <title>&#39;word页眉数字设置 &#39;</title>
+      <link>https://liang-mt.github.io/posts/word/word%E9%A1%B5%E7%9C%89%E6%95%B0%E5%AD%97%E8%AE%BE%E7%BD%AE/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/word/word%E9%A1%B5%E7%9C%89%E6%95%B0%E5%AD%97%E8%AE%BE%E7%BD%AE/</guid>
+      <description>&amp;lsquo;word页眉数字设置 &#39;</description>
+    </item>
+    <item>
+      <title>word参考文献</title>
+      <link>https://liang-mt.github.io/posts/word/word%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/word/word%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/</guid>
+      <description>word参考文献</description>
+    </item>
+    <item>
+      <title>word一行不满，自动到下一行 可是 又移动不上去</title>
+      <link>https://liang-mt.github.io/posts/word/word%E4%B8%80%E8%A1%8C%E4%B8%8D%E6%BB%A1%E8%87%AA%E5%8A%A8%E5%88%B0%E4%B8%8B%E4%B8%80%E8%A1%8C-%E5%8F%AF%E6%98%AF-%E5%8F%88%E7%A7%BB%E5%8A%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/word/word%E4%B8%80%E8%A1%8C%E4%B8%8D%E6%BB%A1%E8%87%AA%E5%8A%A8%E5%88%B0%E4%B8%8B%E4%B8%80%E8%A1%8C-%E5%8F%AF%E6%98%AF-%E5%8F%88%E7%A7%BB%E5%8A%A8%E4%B8%8D%E4%B8%8A%E5%8E%BB/</guid>
+      <description>word一行不满，自动到下一行 可是 又移动不上去</description>
+    </item>
+  </channel>
+</rss>

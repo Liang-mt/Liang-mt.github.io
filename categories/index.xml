@@ -6,8 +6,15 @@
     <description>Recent content in Categories on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liang-mt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>系统问题</title>
+      <link>https://liang-mt.github.io/categories/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98/</guid>
+      <description></description>
+    </item>
     <item>
       <title>教程</title>
       <link>https://liang-mt.github.io/categories/%E6%95%99%E7%A8%8B/</link>
@@ -20,6 +27,83 @@
       <link>https://liang-mt.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://liang-mt.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pycharm</title>
+      <link>https://liang-mt.github.io/categories/pycharm/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/pycharm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Word</title>
+      <link>https://liang-mt.github.io/categories/word/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/word/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://liang-mt.github.io/categories/ubuntu/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WSL</title>
+      <link>https://liang-mt.github.io/categories/wsl/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/wsl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typora</title>
+      <link>https://liang-mt.github.io/categories/typora/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/typora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://liang-mt.github.io/categories/python/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>开发工具</title>
+      <link>https://liang-mt.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opencv</title>
+      <link>https://liang-mt.github.io/categories/opencv/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yolo</title>
+      <link>https://liang-mt.github.io/categories/yolo/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/yolo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSCode</title>
+      <link>https://liang-mt.github.io/categories/vscode/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>深度学习</title>
+      <link>https://liang-mt.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
   </channel>

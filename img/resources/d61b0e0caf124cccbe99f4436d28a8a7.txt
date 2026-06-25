@@ -1,0 +1,61 @@
+打开Windows功能，打开“适用于Linux的Windows子系统”和“虚拟机平台”
+
+以下在Ubuntu界面输入：
+sudo apt-get update
+
+回到终端输入：
+wsl -l -v
+
+wsl --update
+
+以管理员身份打开终端：
+
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+在Ubuntu中输入:
+lsb_release -a
+
+sudo apt update && sudo apt -y upgrade
+
+sudo apt install xrdp
+
+sudo apt install -y xfce4
+
+sudo apt install -y xfce4-goodies
+
+sudo apt install -y xfce4 xfce4-goodies xorg dbus-x11 x11-xserver-utils
+
+启动 xrdp 服务
+sudo service xrdp start
+
+设置开机自启（可选，但建议开）
+sudo systemctl enable xrdp
+
+查看现在状态
+service xrdp status
+
+彻底重写 startwm.sh（我直接给你正确内容）
+sudo bash -c 'cat > /etc/xrdp/startwm.sh' <<'EOF'
+#!/bin/sh
+# xrdp X session start script
+
+unset DBUS_SESSION_BUS_ADDRESS
+unset XDG_RUNTIME_DIR
+. /etc/profile
+
+startxfce4
+EOF
+
+sudo service xrdp restart
+sudo service dbus restart
+
+ip a 
+
+sudo apt-get install xfce4-terminal
+
+
+
+
+

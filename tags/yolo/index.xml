@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YOLO on 我的博客</title>
+    <link>https://liang-mt.github.io/tags/yolo/</link>
+    <description>Recent content in YOLO on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/tags/yolo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yolov8关键点绘制</title>
+      <link>https://liang-mt.github.io/posts/yolo/yolov8%E5%85%B3%E9%94%AE%E7%82%B9%E7%BB%98%E5%88%B6/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/yolov8%E5%85%B3%E9%94%AE%E7%82%B9%E7%BB%98%E5%88%B6/</guid>
+      <description>yolov8关键点绘制</description>
+    </item>
+    <item>
+      <title>&#39;成功解决在目标跟踪时检测不到物体：IndexError: too many indices for ...&#39;</title>
+      <link>https://liang-mt.github.io/posts/yolo/%E6%88%90%E5%8A%9F%E8%A7%A3%E5%86%B3%E5%9C%A8%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E6%97%B6%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0%E7%89%A9%E4%BD%93indexerror-too-many-indices-for-./</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/%E6%88%90%E5%8A%9F%E8%A7%A3%E5%86%B3%E5%9C%A8%E7%9B%AE%E6%A0%87%E8%B7%9F%E8%B8%AA%E6%97%B6%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%88%B0%E7%89%A9%E4%BD%93indexerror-too-many-indices-for-./</guid>
+      <description>&amp;lsquo;成功解决在目标跟踪时检测不到物体：IndexError: too many indices for &amp;hellip;&amp;rsquo;</description>
+    </item>
+    <item>
+      <title>清华大学镜像站</title>
+      <link>https://liang-mt.github.io/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%95%9C%E5%83%8F%E7%AB%99/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%95%9C%E5%83%8F%E7%AB%99/</guid>
+      <description>清华大学镜像站</description>
+    </item>
+    <item>
+      <title>V5 剪枝</title>
+      <link>https://liang-mt.github.io/posts/yolo/v5-%E5%89%AA%E6%9E%9D/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/v5-%E5%89%AA%E6%9E%9D/</guid>
+      <description>V5 剪枝</description>
+    </item>
+    <item>
+      <title>V5 添加注意力机制</title>
+      <link>https://liang-mt.github.io/posts/yolo/v5-%E6%B7%BB%E5%8A%A0%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/v5-%E6%B7%BB%E5%8A%A0%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</guid>
+      <description>V5 添加注意力机制</description>
+    </item>
+    <item>
+      <title>Yolov5 环境包环境</title>
+      <link>https://liang-mt.github.io/posts/yolo/yolov5-%E7%8E%AF%E5%A2%83%E5%8C%85%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/yolov5-%E7%8E%AF%E5%A2%83%E5%8C%85%E7%8E%AF%E5%A2%83/</guid>
+      <description>Yolov5 环境包环境</description>
+    </item>
+    <item>
+      <title>训练yolov5-6.0遇到的问题</title>
+      <link>https://liang-mt.github.io/posts/yolo/%E8%AE%AD%E7%BB%83yolov5-6.0%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/%E8%AE%AD%E7%BB%83yolov5-6.0%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>训练yolov5-6.0遇到的问题</description>
+    </item>
+  </channel>
+</rss>

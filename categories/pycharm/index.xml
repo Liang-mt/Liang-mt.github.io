@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pycharm on 我的博客</title>
+    <link>https://liang-mt.github.io/categories/pycharm/</link>
+    <description>Recent content in Pycharm on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/categories/pycharm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pycharm跳过激活</title>
+      <link>https://liang-mt.github.io/posts/pycharm/pycharm%E8%B7%B3%E8%BF%87%E6%BF%80%E6%B4%BB/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/pycharm/pycharm%E8%B7%B3%E8%BF%87%E6%BF%80%E6%B4%BB/</guid>
+      <description>pycharm跳过激活</description>
+    </item>
+    <item>
+      <title>Pycharm打开时进入主菜单</title>
+      <link>https://liang-mt.github.io/posts/pycharm/pycharm%E6%89%93%E5%BC%80%E6%97%B6%E8%BF%9B%E5%85%A5%E4%B8%BB%E8%8F%9C%E5%8D%95/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/pycharm/pycharm%E6%89%93%E5%BC%80%E6%97%B6%E8%BF%9B%E5%85%A5%E4%B8%BB%E8%8F%9C%E5%8D%95/</guid>
+      <description>Pycharm打开时进入主菜单</description>
+    </item>
+    <item>
+      <title>Pycharm配置Pyside6</title>
+      <link>https://liang-mt.github.io/posts/pycharm/pycharm%E9%85%8D%E7%BD%AEpyside6/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/pycharm/pycharm%E9%85%8D%E7%BD%AEpyside6/</guid>
+      <description>Pycharm配置Pyside6</description>
+    </item>
+    <item>
+      <title>pycharm调整字体大小</title>
+      <link>https://liang-mt.github.io/posts/pycharm/pycharm%E8%B0%83%E6%95%B4%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/pycharm/pycharm%E8%B0%83%E6%95%B4%E5%AD%97%E4%BD%93%E5%A4%A7%E5%B0%8F/</guid>
+      <description>pycharm调整字体大小</description>
+    </item>
+  </channel>
+</rss>

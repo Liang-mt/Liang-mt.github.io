@@ -6,8 +6,29 @@
     <description>Recent content in Tags on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://liang-mt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows</title>
+      <link>https://liang-mt.github.io/tags/windows/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>开发工具</title>
+      <link>https://liang-mt.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>系统问题</title>
+      <link>https://liang-mt.github.io/tags/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E7%B3%BB%E7%BB%9F%E9%97%AE%E9%A2%98/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Markdown</title>
       <link>https://liang-mt.github.io/tags/markdown/</link>
@@ -34,6 +55,104 @@
       <link>https://liang-mt.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://liang-mt.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyCharm</title>
+      <link>https://liang-mt.github.io/tags/pycharm/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/pycharm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>软件bug</title>
+      <link>https://liang-mt.github.io/tags/%E8%BD%AF%E4%BB%B6bug/</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E8%BD%AF%E4%BB%B6bug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://liang-mt.github.io/tags/ubuntu/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WSL</title>
+      <link>https://liang-mt.github.io/tags/wsl/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/wsl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typora</title>
+      <link>https://liang-mt.github.io/tags/typora/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/typora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://liang-mt.github.io/tags/python/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>环境配置</title>
+      <link>https://liang-mt.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opencv</title>
+      <link>https://liang-mt.github.io/tags/opencv/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>计算机视觉</title>
+      <link>https://liang-mt.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YOLO</title>
+      <link>https://liang-mt.github.io/tags/yolo/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/yolo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VSCode</title>
+      <link>https://liang-mt.github.io/tags/vscode/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pyqt5</title>
+      <link>https://liang-mt.github.io/tags/pyqt5/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/pyqt5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>深度学习</title>
+      <link>https://liang-mt.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神经网络</title>
+      <link>https://liang-mt.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</guid>
       <description></description>
     </item>
   </channel>

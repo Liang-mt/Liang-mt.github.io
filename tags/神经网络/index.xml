@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>神经网络 on 我的博客</title>
+    <link>https://liang-mt.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</link>
+    <description>Recent content in 神经网络 on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNN简单网络详解</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/cnn%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/cnn%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3/</guid>
+      <description>CNN简单网络详解</description>
+    </item>
+    <item>
+      <title>base环境下默认的包</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/base%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%BB%98%E8%AE%A4%E7%9A%84%E5%8C%85/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/base%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%BB%98%E8%AE%A4%E7%9A%84%E5%8C%85/</guid>
+      <description>base环境下默认的包</description>
+    </item>
+    <item>
+      <title>Heatmap 关键带你检测</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/heatmap-%E5%85%B3%E9%94%AE%E5%B8%A6%E4%BD%A0%E6%A3%80%E6%B5%8B/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/heatmap-%E5%85%B3%E9%94%AE%E5%B8%A6%E4%BD%A0%E6%A3%80%E6%B5%8B/</guid>
+      <description>Heatmap 关键带你检测</description>
+    </item>
+    <item>
+      <title>V5 剪枝</title>
+      <link>https://liang-mt.github.io/posts/yolo/v5-%E5%89%AA%E6%9E%9D/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/v5-%E5%89%AA%E6%9E%9D/</guid>
+      <description>V5 剪枝</description>
+    </item>
+    <item>
+      <title>V5 添加注意力机制</title>
+      <link>https://liang-mt.github.io/posts/yolo/v5-%E6%B7%BB%E5%8A%A0%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/v5-%E6%B7%BB%E5%8A%A0%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6/</guid>
+      <description>V5 添加注意力机制</description>
+    </item>
+    <item>
+      <title>Yolov5 环境包环境</title>
+      <link>https://liang-mt.github.io/posts/yolo/yolov5-%E7%8E%AF%E5%A2%83%E5%8C%85%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/yolo/yolov5-%E7%8E%AF%E5%A2%83%E5%8C%85%E7%8E%AF%E5%A2%83/</guid>
+      <description>Yolov5 环境包环境</description>
+    </item>
+    <item>
+      <title>Onnxruntime cmakelist写法</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/onnxruntime-cmakelist%E5%86%99%E6%B3%95/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/onnxruntime-cmakelist%E5%86%99%E6%B3%95/</guid>
+      <description>Onnxruntime cmakelist写法</description>
+    </item>
+    <item>
+      <title>长安大学代码部分</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86/</guid>
+      <description>长安大学代码部分</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>计算机视觉 on 我的博客</title>
+    <link>https://liang-mt.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+    <description>Recent content in 计算机视觉 on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>新 win 安装oencv</title>
+      <link>https://liang-mt.github.io/posts/opencv/%E6%96%B0-win-%E5%AE%89%E8%A3%85oencv/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/%E6%96%B0-win-%E5%AE%89%E8%A3%85oencv/</guid>
+      <description>新 win 安装oencv</description>
+    </item>
+    <item>
+      <title>Opencv vscode安装</title>
+      <link>https://liang-mt.github.io/posts/opencv/opencv-vscode%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/opencv-vscode%E5%AE%89%E8%A3%85/</guid>
+      <description>Opencv vscode安装</description>
+    </item>
+    <item>
+      <title>Openvino gpu驱动安装</title>
+      <link>https://liang-mt.github.io/posts/opencv/openvino-gpu%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/openvino-gpu%E9%A9%B1%E5%8A%A8%E5%AE%89%E8%A3%85/</guid>
+      <description>Openvino gpu驱动安装</description>
+    </item>
+    <item>
+      <title>Opencv4.pc文件找不见</title>
+      <link>https://liang-mt.github.io/posts/opencv/opencv4.pc%E6%96%87%E4%BB%B6%E6%89%BE%E4%B8%8D%E8%A7%81/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/opencv4.pc%E6%96%87%E4%BB%B6%E6%89%BE%E4%B8%8D%E8%A7%81/</guid>
+      <description>Opencv4.pc文件找不见</description>
+    </item>
+    <item>
+      <title>Ubuntu vscode 配置opencv</title>
+      <link>https://liang-mt.github.io/posts/opencv/ubuntu-vscode-%E9%85%8D%E7%BD%AEopencv/</link>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/ubuntu-vscode-%E9%85%8D%E7%BD%AEopencv/</guid>
+      <description>Ubuntu vscode 配置opencv</description>
+    </item>
+    <item>
+      <title>Win opencv安装报错</title>
+      <link>https://liang-mt.github.io/posts/opencv/win-opencv%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/opencv/win-opencv%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99/</guid>
+      <description>Win opencv安装报错</description>
+    </item>
+  </channel>
+</rss>

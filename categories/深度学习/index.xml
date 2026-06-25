@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>深度学习 on 我的博客</title>
+    <link>https://liang-mt.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 深度学习 on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pyside6相关使用</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pyside6%E7%9B%B8%E5%85%B3%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pyside6%E7%9B%B8%E5%85%B3%E4%BD%BF%E7%94%A8/</guid>
+      <description>Pyside6相关使用</description>
+    </item>
+    <item>
+      <title>CNN简单网络详解</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/cnn%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/cnn%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3/</guid>
+      <description>CNN简单网络详解</description>
+    </item>
+    <item>
+      <title>base环境下默认的包</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/base%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%BB%98%E8%AE%A4%E7%9A%84%E5%8C%85/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/base%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%BB%98%E8%AE%A4%E7%9A%84%E5%8C%85/</guid>
+      <description>base环境下默认的包</description>
+    </item>
+    <item>
+      <title>Heatmap 关键带你检测</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/heatmap-%E5%85%B3%E9%94%AE%E5%B8%A6%E4%BD%A0%E6%A3%80%E6%B5%8B/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/heatmap-%E5%85%B3%E9%94%AE%E5%B8%A6%E4%BD%A0%E6%A3%80%E6%B5%8B/</guid>
+      <description>Heatmap 关键带你检测</description>
+    </item>
+    <item>
+      <title>Onnxruntime cmakelist写法</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/onnxruntime-cmakelist%E5%86%99%E6%B3%95/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/onnxruntime-cmakelist%E5%86%99%E6%B3%95/</guid>
+      <description>Onnxruntime cmakelist写法</description>
+    </item>
+    <item>
+      <title>Vosk  语音识别整体流程</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/vosk--%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/vosk--%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B/</guid>
+      <description>Vosk  语音识别整体流程</description>
+    </item>
+    <item>
+      <title>长安大学代码部分</title>
+      <link>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86/</guid>
+      <description>长安大学代码部分</description>
+    </item>
+  </channel>
+</rss>

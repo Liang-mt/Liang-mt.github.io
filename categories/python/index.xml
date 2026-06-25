@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on 我的博客</title>
+    <link>https://liang-mt.github.io/categories/python/</link>
+    <description>Recent content in Python on 我的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://liang-mt.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>labelme打包</title>
+      <link>https://liang-mt.github.io/posts/python/labelme%E6%89%93%E5%8C%85/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/python/labelme%E6%89%93%E5%8C%85/</guid>
+      <description>labelme打包</description>
+    </item>
+    <item>
+      <title>Windows pip&amp;conda 换源</title>
+      <link>https://liang-mt.github.io/posts/python/windows-pipconda-%E6%8D%A2%E6%BA%90/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/python/windows-pipconda-%E6%8D%A2%E6%BA%90/</guid>
+      <description>Windows pip&amp;amp;conda 换源</description>
+    </item>
+    <item>
+      <title>Python下使用opencv调用摄像头出错 (exyb.cn)</title>
+      <link>https://liang-mt.github.io/posts/python/python%E4%B8%8B%E4%BD%BF%E7%94%A8opencv%E8%B0%83%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E5%87%BA%E9%94%99-exyb.cn/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/python/python%E4%B8%8B%E4%BD%BF%E7%94%A8opencv%E8%B0%83%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E5%87%BA%E9%94%99-exyb.cn/</guid>
+      <description>Python下使用opencv调用摄像头出错 (exyb.cn)</description>
+    </item>
+    <item>
+      <title>python转exe问题解决</title>
+      <link>https://liang-mt.github.io/posts/python/python%E8%BD%ACexe%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://liang-mt.github.io/posts/python/python%E8%BD%ACexe%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</guid>
+      <description>python转exe问题解决</description>
+    </item>
+  </channel>
+</rss>
